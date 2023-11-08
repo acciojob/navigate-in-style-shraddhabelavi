@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+ul{
+	background-color:#D3D3D3;
+	padding:10px;
+	margin-right:1rem;
+	list-style:none;
+}
